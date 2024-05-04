@@ -1,0 +1,26 @@
+*{
+    font-family: "Rubik"
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgb(107, 167, 236);
+    color: white;
+}
+
+body p {
+    width: 70%;
+    text-align: justify;
+    color: white;
+
+
+}
+
+body img {
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+}
