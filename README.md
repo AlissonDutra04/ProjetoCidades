@@ -4,13 +4,12 @@ Este é um projeto de um site que apresenta informações sobre as cidades do Br
 
 ## Tecnologias Utilizadas
 
-Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript puros, sem o uso de frameworks adicionais.
+Este projeto foi desenvolvido utilizando HTML, CSS.
 
 ## Estrutura de Arquivos
 
 - `index.html`: O arquivo principal que contém a estrutura HTML do site.
 - `style.css`: O arquivo de folha de estilo CSS que controla o design e a aparência do site.
-- `script.js`: O arquivo JavaScript que adiciona interatividade ao site, como a exibição dinâmica de informações sobre as cidades.
 - `images/`: Pasta contendo as imagens utilizadas no site.
 
 ## Como Acessar
